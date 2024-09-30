@@ -1,16 +1,19 @@
-## Hi there 👋
+<!----------------------------------- Heading Section ------------------------------------>
 
-<!--
-**ArnavRaj28/ArnavRaj28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Arnav Raj</h1>
 
-Here are some ideas to get you started:
+<!----------------------------------- About Section ------------------------------------>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on React-Native
+- 🌱 I’m currently learning Backend
+- 💬 Ask me anything about React-Native
+- 📫 How to reach me: arnavraj313@gmail.com
+- 😄 My website: https://arnavraj28.github.io/Arnav-Portfolio/
+- ⚡ Fun fact: I'm comming to teen
+
+### Connect with me:
+<div id="badges">
+<a href="https://github.com/ArnavRaj28">
+<img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+</a>
+</div>
