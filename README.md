@@ -14,7 +14,7 @@
 ### Connect with me:
 <div id="badges">
     <a href="https://github.com/ArnavRaj28">
-       <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
     </a>
     <a href="https://arnavraj28.github.io/Arnav-Portfolio/">
         <img align="center" src="https://img.shields.io/badge/Portfolio%20-%20%23dc143c?style=for-the-badge&logo=ionic&logoColor=white" alt="https://react-portfolio-main-thebarunkumar.vercel.app/" />
