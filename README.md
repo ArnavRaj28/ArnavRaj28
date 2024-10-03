@@ -1,6 +1,12 @@
 <!----------------------------------- Heading Section ------------------------------------>
 
-<h1 align="center">Hi 👋, I'm Arnav Raj</h1>
+<h1 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Arnav Raj</h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=700&height=100&lines=Final+Year+Computer+Science+Student;Maulana+Abul+Kalam+Azad+University+of+Technology,+West+Bengal;Competitive+Programmer;Web+Developer;Always+learning+new+things">
+  </a>
+</p>
 
 <!----------------------------------- About Section ------------------------------------>
 
@@ -14,7 +20,7 @@
 ### Connect with me:
 <div id="badges">
     <a href="https://arnavraj28.github.io/Arnav-Portfolio/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio%20-%20%23dc143c?style=for-the-badge&logo=ionic&logoColor=white" alt="https://react-portfolio-main-thebarunkumar.vercel.app/" />
+        <img align="center" src="https://img.shields.io/badge/Portfolio%20-%20%23dc143c?style=for-the-badge&logo=ionic&logoColor=white" alt="https://arnavraj28.github.io/Arnav-Portfolio/" />
     </a>
     <a title="contact.arnavraj313@gmail.com" href="mailto:contact.arnavraj313@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="contact.arnavraj313@gmail.com" />
@@ -28,21 +34,28 @@
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
 <h2>Tech Stack</h2>
-
-<p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
-    <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-    <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" alt="nextjs" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
-    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,java,js" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,mysql,sqlite" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,heroku,vercel,vscode,visualstudio,androidstudio" />
+  </a>
+</p>
+
+<br>
