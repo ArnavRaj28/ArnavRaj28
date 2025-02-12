@@ -21,7 +21,7 @@
 
 ### Connect with me:
 <div id="badges">
-    <a href="https://arnavraj28.github.io/Arnav-Portfolio/">
+    <a href="https://arnav-portfolio-theta.vercel.app/">
         <img align="center" src="https://img.shields.io/badge/Portfolio%20-%20%23dc143c?style=for-the-badge&logo=ionic&logoColor=white" alt="https://arnavraj28.github.io/Arnav-Portfolio/" />
     </a>
     <a title="contact.arnavraj313@gmail.com" href="mailto:contact.arnavraj313@gmail.com">
